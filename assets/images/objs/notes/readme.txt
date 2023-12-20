@@ -1,0 +1,1 @@
+Drop your custom noteskins in this folder!

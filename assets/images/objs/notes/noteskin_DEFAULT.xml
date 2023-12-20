@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteskin_DEFAULT.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down arrow0000" x="0" y="0" width="162" height="238"/>
+	<SubTexture name="down receptor0000" x="162" y="0" width="162" height="238"/>
+	<SubTexture name="hold bar0000" x="324" y="0" width="31" height="364"/>
+	<SubTexture name="hold end0000" x="355" y="0" width="31" height="26"/>
+	<SubTexture name="left arrow0000" x="0" y="364" width="237" height="162"/>
+	<SubTexture name="left receptor0000" x="237" y="364" width="237" height="162"/>
+	<SubTexture name="right arrow0000" x="0" y="526" width="238" height="162"/>
+	<SubTexture name="right receptor0000" x="238" y="526" width="238" height="162"/>
+	<SubTexture name="up arrow0000" x="0" y="688" width="162" height="237"/>
+	<SubTexture name="up receptor0000" x="162" y="688" width="162" height="237"/>
+</TextureAtlas>
